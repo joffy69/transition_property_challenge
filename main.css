@@ -3,7 +3,7 @@ a{
     font-size: 16px;
     text-decoration: none;
     transition-duration: 1s;
-    transition-timing-function: ease-in-out 
+    transition-timing-function: ease-in-out;
     /* transition: color 1s ease-in-out; */
 }
 
