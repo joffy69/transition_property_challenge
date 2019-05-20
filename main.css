@@ -1,0 +1,11 @@
+.link {
+    color: #e84610;
+    font-size: 16px;
+    text-decoration: none;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out
+}
+
+.link:hover{
+    background-color: #000
+}
